@@ -9,6 +9,7 @@ This score shall be calculated by the system based on Reputations.
 The verified resume would help both parties in reducing their time and fastening this process.
 
 Steps-
+
 1 Login using Employer Account and update your resume. 
 
 2 Send requests to the Employer for job verification.
