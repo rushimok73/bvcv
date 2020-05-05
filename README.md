@@ -1,4 +1,4 @@
-# bvcv
+# Blockchain based resume verification system
 
 Users are requested to register on the portal and then login. Users would be then asked to fill out their Personal Information, followed by Educational Details, followed by Work Experiences and Extra Curriculars. All these fields are firstly stored in the databases. This stored data is then verified for each and every component of the resume. 
 
